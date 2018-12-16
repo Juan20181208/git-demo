@@ -6,7 +6,4 @@ Esta es la lista de ficheros en la web 2.0
 
 1.- index.html
 
-sdfsdfsdf
-sdfsd
-fsfd
 
